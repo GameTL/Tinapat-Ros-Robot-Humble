@@ -2,7 +2,7 @@
 
 
 # Basic walking
-
+![rqt](rqt.svg)
 ![Image of sucessful connection](basic_teleop_sucess.png)
 
 ## SLAVE:
